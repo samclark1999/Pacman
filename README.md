@@ -7,5 +7,5 @@ Make sure pacman.js, index.html, and PNG images are on your local computer. Next
 ## Future Improvements
 I would like to code some user functions where the user can control pacman around a browser screen. The control would be the arrow keys and would need new code and photos for pacman to go up and down. This would also require code for top and bottom wall boundaries.
 ## License
-license from MIT. Full license information found in license file in Pacman repo.
+license from MIT. Full license information file found in Pacman repo.
 
