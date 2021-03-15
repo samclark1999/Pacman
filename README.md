@@ -1,4 +1,5 @@
 <img src="PacMan1.png" width="300px"/>
+#
 # Pacman
 Pacman is an exercise in which an animation of pacman bounces off the wall boundaries and heads in the opposite direction, opening and closing its mouth.
 ## How to Run
